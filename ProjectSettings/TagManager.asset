@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Missile
+  - FxTemporaire
+  - FlyPoint
+  - Rock
+  - Mine
+  - Reactor
+  - UpgradeArea
+  - Seller
+  - Mony
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Post
+  - Water
+  - UI
+  - Ground
+  - Mine
+  - IgnoreChecker
+  - IgnorPlayer
+  - rocket
+  - Line
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
